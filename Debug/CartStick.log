@@ -1,0 +1,132 @@
+﻿  Main.cpp
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Node.h(42,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Node.h(44,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Node.h(47,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Node.h(63,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Node.h(71,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(65,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(75,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(81,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(100,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(108,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(118,58): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(118,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(122,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(135,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(176,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(212,105): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(218,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(238,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(251,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(266,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(286,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(288,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(291,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(295,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(315,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(343,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(346,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(359,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(372,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(377,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(81,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(85,74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(85,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(86,42): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(87,77): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(87,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(88,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(108,19): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(114,17): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(115,18): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(137,48): warning C4244: аргумент: преобразование "double" в "float32", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(156,30): warning C4244: аргумент: преобразование "double" в "float32", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(158,32): warning C4244: аргумент: преобразование "double" в "float32", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(165,30): warning C4244: аргумент: преобразование "double" в "float32", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(170,31): warning C4244: аргумент: преобразование "double" в "float32", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(182,1): warning C4305: =: усечение из "double" в "float32"
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(193,68): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(193,47): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(196,1): warning C4305: =: усечение из "double" в "float32"
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(206,70): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(206,49): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Player.h(207,47): warning C4244: аргумент: преобразование "double" в "float32", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(43,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(60,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(62,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(79,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(81,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(100,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(103,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(137,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(166,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(172,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(177,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(191,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Species.h(201,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(46,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(60,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(74,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(82,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(111,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(115,22): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(129,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(134,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(143,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(149,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(152,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(168,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(176,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(180,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(182,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(196,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(207,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(220,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(227,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Population.h(239,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Main.cpp(48,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Main.cpp(68,82): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Main.cpp(68,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Main.cpp(91,47): warning C4244: =: преобразование "sf::Int64" в "double", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Connection.h(47,39): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Connection.h(44): message : во время компиляции функции-члена класс шаблон "void Connection<Node>::mutateWeight(void)"
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(289): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Connection<Node>::mutateWeight(void)"
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Node.h(49): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Connection<Node>"
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Connection.h(54,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\ClarVik\source\repos\NEAT\CartStick\ConnectionHistory.h(37,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ClarVik\source\repos\NEAT\CartStick\Brain.h(240): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool ConnectionHistory::match<Brain*,Node>(Brain,Node,Node)"
+          with
+          [
+              Brain=Brain *,
+              Node=Node
+          ]
+  CartStick.vcxproj -> C:\Users\ClarVik\source\repos\NEAT\Debug\CartStick.exe
